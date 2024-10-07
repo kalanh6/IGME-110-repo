@@ -1,0 +1,129 @@
+Instructions for Product Proposal Template (UniAid)
+
+Provide a concise and descriptive name for your application.
+Project Team Members 
+Summary Writer: Requires concise writing and a holistic understanding of the project.
+Market Researcher: Requires skills in  research and data interpretation.
+Product Designer: Requires technical knowledge and creativity.
+Devil’s Advocate/Critic: Requires critical thinking and the ability to construct persuasive arguments.
+Conclusion Writer: Requires concise writing and ability to synthesize content.
+Editor & Appendix Creator: Responsible for overall editing of the final document and creation of an appendix for any additional supporting materials. 
+
+Note: For groups of 5 the appendix is not required and the Summary Writer and Conclusion Writer will share responsibility for overall editing of the final document. 
+
+1. Executive Summary (Overview) - Mitch P
+Provide a high-level overview of the application. This section should answer the following:
+What is the application?
+An app on your phone that is aimed toward students to rent study materials, buy/sell textbooks, and (most importantly) share resources such as notes and guides
+Who is the target audience?
+College Students (Specifically freshman/incoming students)
+What key problem does it solve?
+This solves many problems like confusion and directions but most importantly, it helps students with their grades
+What are its unique features or benefits?
+User Profiles // App Navigation or Search // Resource Listing // Uploading + Sharing // In-app Messaging // Contact or Help // Borrowing Tracker // Notifications // Resource Recommendations // Course Catalogs
+Length: ~1-2 paragraphs
+This is UniAid, a phone app targeted toward college students to rent study materials, buy and sell textbooks,  and (most importantly) share resources such as notes and guides to further student’s education. This app will be used by the students to help get their grades up and solve any confusion or discomfort caused by an assignment, exam, quiz, or homework. Our main key features will be the upload and share section followed by a user profile integration for easy search for a specific student, professor, faculty member, etc. People have been trying to save college students from these issues for years however, most apps are confusing and targeted toward certain students. Each feature of our app will be simplistic in the sense that it will solve confusion through easy navigation, helpful hyperlinks, and the integration of a campus map to help new and attending students from getting lost around campus. Additionally, there will be faculty and staff messaging integrated in the app to help with any sort of guidance (school related or not). Our app trumps other apps with similar content strictly because our app is mainstream and can be applied across multiple campuses across the states.
+
+2. Market Research and Need Analysis - Sean L
+There are many existing apps that do different things for college students, similar to what we want to do. The biggest flaw in all of these apps though is that they could easily be made into a single app, rather than having an app for every part of college life. RIT attempted to do this with their own RIT app, however it felt badly developed and tends not to work great. Using that as a baseline we want to improve the RIT app, as well as add in new features that were not previously there. Our app takes existing apps like headspace, campus groups, chegg, etc… and puts them all into one place. The issue in the market isn’t that there are no apps with the features we want to include, but that there is no app that does it all by itself. If you want to be successful in college it takes a handful of apps. Most students will have one for each piece of life, examples being one for mindful/mental health, one for study help, one for help around campus, one for socializing, and so on. These were previously all separate apps, but with CollegeAid you can have them all in one place. 
+Based on the feedback of my peers, it seems that the majority of students who have heard about this app agree that it is something they wish they had as college students. The chart below helps in supporting that students are consistently downloading educational apps. Specifically ones that help them learn, something we would like to include in our app using group based learning. 
+
+
+Below is a list of apps with similar premises as ours as well as just apps popular among college students. Included in this list are their best and worst features. This list was compiled with the help of AI, in addition to my own research. 
+Productivity and Organization
+Todoist:
+Best Features:
+Cross-platform support with reliable syncing across devices.
+Natural language input and productivity reports enhance user experience.
+Flexible views (list, calendar, board) for task management.
+Collaboration features for team projects.
+Worst Features:
+Some advanced features like reminders are available only to paying subscribers.
+Limited free version with restrictions on active projects and filter views.
+Evernote:
+Best Features:
+Versatile note-taking capabilities with the ability to create notebooks and sync across devices.
+Collaboration tools for working with others.
+Worst Features:
+Can become cluttered if not organized properly.
+Some features require a premium subscription.
+Trello:
+Best Features:
+Visual project management using boards, lists, and cards.
+Easy collaboration with team members.
+Worst Features:
+Limited functionality in the free version.
+Can be overwhelming for complex projects without customization.
+Study and Learning
+Chegg Study:
+Best Features:
+Offers 24/7 homework help and step-by-step solutions.
+Worst Features:
+Subscription costs can be high for students.
+Wolfram Alpha:
+Best Features:
+Powerful computational engine for solving complex questions.
+Worst Features:
+Requires a learning curve to use effectively.
+Anki:
+Best Features:
+Uses spaced repetition for effective memorization.
+Worst Features:
+Interface can be less intuitive for new users.
+Mindfulness and Well-being
+Headspace:
+Best Features:
+Offers a wide range of guided meditation sessions.
+Worst Features:
+Full access requires a subscription.
+Forest:
+Best Features:
+Gamifies productivity by growing virtual trees as you focus.
+Worst Features:
+Limited functionality without in-app purchases.
+Financial Management
+Mint:
+Best Features:
+Comprehensive budgeting tools and financial tracking.
+Worst Features:
+Ads can be intrusive, and some users report syncing issues.
+Social and Campus Life
+GroupMe:
+Best Features:
+Easy group communication, ideal for coordinating with classmates and friends.
+Worst Features:
+Lacks some advanced messaging features found in other apps.
+
+
+
+
+
+3. Product Description - Jaden B
+Provide a detailed description of the application's features and how it works. This should include:
+A list of core features, with brief explanations of each
+How the user interface (UI) and user experience (UX) are designed to meet the needs of the target audience
+Any technological innovations or creative ideas that set the application apart from others
+Length: ~3-4 paragraphs, optional visuals (wireframes or mockups)
+Our app will have many features including but not limited to user profiles, app navigation/search,  resource listing, uploading/sharing, in-app messaging, contact/help, borrowing tracker, notifications, resource recommendations, course catalogs/schedules, and a student marketplace. It will allow students to find, sell, and borrow any resources they may need during their time in college. UniAid can also function as a social media platform allowing students to stay connected within their community, they will be able to contact their peers and professors as well as post about any events they may be holding on or off of campus. Students will need to link UniAid to their University email account, this will help to enforce the return of any textbooks or other items that are borrowed. There will also be maps to help students find their classes, clubs, or any events they may be interested in. Lastly, there will be an optional Campus Companion to help students navigate the app if they so choose, the Campus Companion will guide them through the different user interface and user experiences listed above.
+
+
+4. Possible Problems and Counterarguments - Kalan Ho
+Identify potential criticisms or challenges to the proposal. Address the following:
+Possible objections to the need for the product (e.g., "Is this already solved by existing apps?")
+
+Technical or financial challenges that could arise during development
+
+How your group plans to overcome these challenges or justify the product's relevance despite objections
+
+Length: ~2-3 paragraphs 
+	Obviously no company comes without criticism.One problem with our proposal is that our general service has already been done by other companies. Ebay, Etsy, and Facebook marketplace are just a few apps that rule the domain of digital marketplaces. To differentiate UniAid from these competitors, our focus will be solely on textbooks and study materials sold by students for students. Keeping the app secure to avoid scams and non-students from accessing the app and interacting with users will also be vital. To ensure students’ security, we will verify users with SheerID so that only college students can access the resources, as only they are the target audience. 
+	Technical and financial challenges can easily be overcome. Following the lead of other successful companies is key for progress. Gathering income at a profitable rate is the most important and usually most difficult part of starting a business. We plan to make UniAid successful by taking a small percentage of the price for every material sold. This percentage will be fine tuned and tested to be insignificant enough that the seller does not lose too much monetary value from selling their materials and UniAid will be able to support expenses such as paying any employees who help run the app. Growing the app will also be a challenging task. Social media is an essential part of accumulating a following for any purpose. For this reason, we will use as many resources as we can to promote our brand. We will also offer promotions and benefits for both new and frequent users to entice students to join and stay engaged with the app.
+
+5. Conclusion and Recommendations - Brandon Donaldson
+Summarize the main points of the proposal and reiterate why the application is needed. This section should leave a lasting impression and include:
+A brief recap of the problem and solution
+The potential impact of the application (social, financial, or user benefits)
+A clear call to action (e.g., “We recommend moving forward with the development of this app because…”)
+Length: ~1-2 paragraphs
+As a freshman, adjusting to college life has been difficult. From having to get used to a completely new environment, to having to worry about all the class work we have been getting has made adjustment hard. That's why we thought of the Idea UniAid, an app where you can get notebooks for cheap, and even get notes from a class you missed. UniAid will be the perfect app to keep up with your classes, allowing the average student to stay organized, and help free up time. With the online marketplace you will also be able to get Books on the cheap, so students will no longer have to worry about textbook cost, and can save their money for other important things.We recommend moving forward with the development of this app because as college students we know first hand how difficult classes can be and how money management is integral to living a stress free college life. With UniAid we hope that in the near future we could help realize our ideals, and make every college campus a more productive, and less stressful environment.
+
